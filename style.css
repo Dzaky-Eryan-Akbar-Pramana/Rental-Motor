@@ -193,7 +193,7 @@ body {
 
   .kotak p{
     margin: 0;
-    margin-bottom: -27px;
+    /* margin-bottom: -27px; */
     font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;

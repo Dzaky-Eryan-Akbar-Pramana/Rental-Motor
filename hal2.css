@@ -91,7 +91,7 @@
   }
   
   input[type=text]:focus{
-    border-color:rgba(128, 128, 128, 0.911));
+    border-color:rgba(128, 128, 128, 0.911);
     box-shadow:0 0 8px 0 rgb(128, 128, 128);
   }
 
