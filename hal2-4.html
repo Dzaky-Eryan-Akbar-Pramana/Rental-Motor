@@ -49,16 +49,16 @@
     <div class="outter">
 
         <div class="left">
-            <img src="https://images.tokopedia.net/img/cache/700/attachment/2021/6/29/99215998/99215998_288c06cc-0575-4f61-ab71-49e2820028b7.jpg?ect=4g" alt="">
+            <img src="images/ninjaax.jpeg" alt="">
             <div class="pe">
-            <p>Jasa rental motor kawasaki ninja zx25r nomor 1 di Kota Surabaya dengan pelayanan yang sangat memuaskan.
+            <p>Jasa rental Motor BENELI TNT 250 nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
                 Fasilitas : 2 Helm, Jas Hujan. Siap melayani antar jemput kendaraan di terminal, stasiun, bandara dll.
             </p>
-            <p>Monggo, kalo minat silahkan datang langsung ke Garasi Setia Abadi Trans, Rental Mobil dan Motor Surabaya.
-                di Jalan Simo Sidomulyo IV no.71 Surabaya. Dijamin harga terjangkau, berkualitas, aman dan nyaman serta
+            <p>Monggo, kalo minat silahkan datang langsung ke Rental Motor 3R, Rental Motor Daerah Istimewa Yogyakarta.
+                di Jl. Kapas No.9, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166. Dijamin harga terjangkau, berkualitas, aman dan nyaman serta
                 dengan persyaratan rental motor yang mudah.</p>
             <p>Kami mengucapkan terima kasih kepada para calon Pelanggan dan pelanggan setia kami yang selalu
-                mempercayakan kami sebagai partner dalam pelayanan jasa rental motor surabaya. Semoga kedepannya kami
+                mempercayakan kami sebagai partner dalam pelayanan jasa rental motor Daerah Istimewa Yogyakarta. Semoga kedepannya kami
                 bisa menjadi yang lebih baik lagi.</p>
             </div>
         </div>
@@ -67,7 +67,9 @@
                 <!-- <input type="text" placeholder="cari..." style="padding: 8px 5px; border-radius: 5px; border: 2px grey;">
                 <button>cari</button> -->
                 <!-- <br> -->
-                <h2 style="margin-top: 3rem;">FORM PENYEWAAN</h2>
+                <h2>FORM PENYEWAAN</h2>
+                <form name="myForm" action="#" onsubmit="return validateForm()" method="post">
+
                 <label for="fname">Nama lengkap</label><br>
                 <input style="padding: 8px 5px; border-radius: 5px; border: 1px solid grey;" type="text" id="fname" name="fname" value="Nama..."><br>
                 <label for="lname">Alamat tempat tinggal</label><br>
@@ -80,7 +82,8 @@
                     <option value="sim">SIM</option>
                     <option value="KTM">KTM</option>
                     </select>
-                    <button style="text-decoration: none; color: #666;">Submit</button>
+                    <button type="submit" value="submit" style="text-decoration: none; color: #666;">Submit</button>
+                </form>
                 </div>  
             <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Unit sewa terlaris bosku 😎🤙</h3>
         </div>
@@ -135,5 +138,15 @@
         </div>
     </footer>
 </body>
+
+<script>
+    function validateForm() {
+  let x = document.forms["myForm"]["fname"].value;
+  if (x == "") {
+    alert("Masukin Nama dan Alamat dulu Boss");
+    return true;
+  }
+}
+</script>
 
 </html>
