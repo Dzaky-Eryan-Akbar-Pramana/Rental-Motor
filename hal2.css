@@ -62,14 +62,14 @@
   }
 
   .right{
-    width: 30%;
-    height:70%;
+    width: 40%;
+    height:80%;
     background-color: white;
   }
-
+  
   .left img{
     width: 95%;
-    height: 40%;
+    height: 50%;
   }
 
   .left p{
@@ -78,7 +78,9 @@
   }
 
 .pe{ 
-    width: 80%;
+   width: 50%;
+   margin: 0 auto;
+
   }
 
   input[type=text]{
