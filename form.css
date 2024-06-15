@@ -21,6 +21,7 @@ h1 {
 }
 
 form {
+    margin: auto;
     display: flex;
     flex-direction: column;
 }
