@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Form Pembayaran</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="hal2.css">
     <link rel="stylesheet" href="footer.css">
@@ -16,12 +16,11 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet">
-    
 </head>
 <body>
     <div class="container">
         <h1>Pembayaran Penyewaan Motor</h1>
-        <form action="#" method="post">
+        <form action="process_payment.php" method="post">
             <fieldset>
                 <legend>Detail Penyewa</legend>
                 <label for="nama">Nama:</label>
@@ -59,7 +58,7 @@
                 <input type="text" id="nomor-kartu" name="nomor-kartu" required>
 
                 <label for="total-pembayaran">Total Pembayaran (IDR):</label>
-                <input type="number" id="total-pembayaran" name="total-pembayaran" readonly value="500000">
+                <input type="number" id="total-pembayaran" name="total-pembayaran" required>
             </fieldset>
 
             <button type="submit">Bayar Sekarang</button>
@@ -107,14 +106,5 @@
             </div>
         </div>
     </footer>
-    <script>
-        function validateForm() {
-      let x = document.forms["myForm"]["fname"].value;
-      if (x == "") {
-        alert("Masukin Nama dan Alamat dulu Boss");
-        return true;
-      }
-    }
-    </script>
 </body>
 </html>

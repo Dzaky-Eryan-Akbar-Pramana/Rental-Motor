@@ -31,7 +31,7 @@
 
         <div class="nav">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
@@ -49,7 +49,7 @@
     <div class="outter">
 
         <div class="left">
-            <img src="https://imgcdn.oto.com/medium/gallery/color/84/2260/yamaha-nmax-155-color-418900.jpg" alt="">
+            <img src="https://content2.kawasaki.com/ContentStorage/KMI/Products/5090/8d2ac1f6-a1dc-4a8a-a2b0-5a8e4a2bf759.jpg?w=510&h=340&mode=crop" alt="">
            
         </div>
         <div class="right">
@@ -61,7 +61,7 @@
                 <form name="myForm" action="#" onsubmit="return validateForm()" method="post">
 
                     <div class="pe">
-                        <p> Jasa rental Motor Yamaha New NMax 155 nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
+                        <p> Jasa rental Motor Kawasaki Ninja 250 FI nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
                             Fasilitas : 2 Helm, Jas Hujan. Siap melayani antar jemput kendaraan di terminal, stasiun, bandara dll.
                         </p>
                         <p>     Monggo, kalo minat silahkan datang langsung ke Rental Motor 3R, Rental Motor Daerah Istimewa Yogyakarta.
@@ -75,7 +75,7 @@
                 
                 <div class="form" style="display: flex; flex-direction: column; width: 300px; gap: 10px;">
                    
-                    <button type="Pembayaran" value="Pembayaran" style="text-decoration: none; color: #666;"><a href="sistem pembeayaran.html">Pembayaran</button>
+                    <button type="Pembayaran" value="Pembayaran" style="text-decoration: none; color: #666;"><a href="sistem pembeayaran.php">Pembayaran</button>
                 </form>
                 </div>  
             <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Unit sewa terlaris bosku 😎🤙</h3>

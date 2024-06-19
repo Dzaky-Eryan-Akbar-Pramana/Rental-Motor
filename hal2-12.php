@@ -31,7 +31,7 @@
 
         <div class="nav">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
@@ -49,7 +49,7 @@
     <div class="outter">
 
         <div class="left">
-            <img src="https://www.google.com/imgres?q=vespa%20primavera&imgurl=https%3A%2F%2Fvespa.co.id%2Fassets%2Fimg%2Fvespa-primavera%2Fprimavera%2Fmodels%2Fgreen-amabile-05.png&imgrefurl=https%3A%2F%2Fvespa.co.id%2Fid%2Fprimavera%2Fprimavera1&docid=8m2-nOJjSAfnlM&tbnid=FANg3V1bN9kfXM&vet=12ahUKEwjN5OG8u-eGAxWWzTgGHUfKDZUQM3oECBkQAA..i&w=834&h=626&hcb=2&ved=2ahUKEwjN5OG8u-eGAxWWzTgGHUfKDZUQM3oECBkQAA" alt="">
+            <img src="https://i0.wp.com/vario.id/wp-content/uploads/2024/05/9c49aef1d36dbe2680251aa982ca5b51.jpg?fit=700%2C700&ssl=1" alt="">
            
         </div>
         <div class="right">
@@ -61,7 +61,7 @@
                 <form name="myForm" action="#" onsubmit="return validateForm()" method="post">
 
                     <div class="pe">
-                        <p> Jasa rental Motor Vespa Primavera nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
+                        <p> Jasa rental Motor Honda Vario 150 Remote nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
                             Fasilitas : 2 Helm, Jas Hujan. Siap melayani antar jemput kendaraan di terminal, stasiun, bandara dll.
                         </p>
                         <p>     Monggo, kalo minat silahkan datang langsung ke Rental Motor 3R, Rental Motor Daerah Istimewa Yogyakarta.
@@ -75,7 +75,7 @@
                 
                 <div class="form" style="display: flex; flex-direction: column; width: 300px; gap: 10px;">
                    
-                    <button type="Pembayaran" value="Pembayaran" style="text-decoration: none; color: #666;"><a href="sistem pembeayaran.html">Pembayaran</button>
+                    <button type="Pembayaran" value="Pembayaran" style="text-decoration: none; color: #666;"><a href="sistem pembeayaran.php">Pembayaran</button>
                 </form>
                 </div>  
             <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Unit sewa terlaris bosku 😎🤙</h3>

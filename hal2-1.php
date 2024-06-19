@@ -31,7 +31,7 @@
 
         <div class="nav">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
@@ -49,7 +49,7 @@
     <div class="outter">
 
         <div class="left">
-            <img src="https://asset.kompas.com/crops/UJTsvpXxcx9DxKH9ld0oOWd2LeQ=/0x0:900x600/1200x800/data/photo/2017/11/14/240642257.jpg" alt="">
+            <img src="https://content2.kawasaki.com/ContentStorage/KMI/ProductTopFeature/1074/15c5950b-b19b-486c-bd07-1b7537d7ad8c.jpg?w=800" alt="">
            
         </div>
         <div class="right">
@@ -61,21 +61,21 @@
                 <form name="myForm" action="#" onsubmit="return validateForm()" method="post">
 
                     <div class="pe">
-                        <p> Jasa rental Motor Honda CRF 150 L nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
+                        <p style="text-align: justify;"> Jasa rental Motor Kawasaki Ninja ZX25r nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
                             Fasilitas : 2 Helm, Jas Hujan. Siap melayani antar jemput kendaraan di terminal, stasiun, bandara dll.
                         </p>
-                        <p>     Monggo, kalo minat silahkan datang langsung ke Rental Motor 3R, Rental Motor Daerah Istimewa Yogyakarta.
+                        <p style="text-align: justify;">     Monggo, kalo minat silahkan datang langsung ke Rental Motor 3R, Rental Motor Daerah Istimewa Yogyakarta.
                             di Jl. Kapas No.9, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166. Dijamin harga terjangkau, berkualitas, aman dan nyaman serta
                             dengan persyaratan rental motor yang mudah.</p>
-                        <p>Kami mengucapkan terima kasih kepada para calon Pelanggan dan pelanggan setia kami yang selalu
+                        <p style="text-align: justify;">Kami mengucapkan terima kasih kepada para calon Pelanggan dan pelanggan setia kami yang selalu
                             mempercayakan kami sebagai partner dalam pelayanan jasa rental motor Daerah Istimewa Yogyakarta. Semoga kedepannya kami
                             bisa menjadi yang lebih baik lagi.</p>
                         </div>
             </div>
                 
-                <div class="form" style="display: flex; flex-direction: column; width: 300px; gap: 10px;">
+                <div class="form" style=" text-align: center; display: flex; flex-direction: column; width: 300px; gap: 10px;">
                    
-                    <button type="Pembayaran" value="Pembayaran" style="text-decoration: none; color: #666;"><a href="sistem pembeayaran.html">Pembayaran</button>
+                    <button type="Pembayaran" value="Pembayaran" style="text-align: center; text-decoration: none; color: #666;"><a href="sistem pembeayaran.php">Pembayaran</button>
                 </form>
                 </div>  
             <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Unit sewa terlaris bosku 😎🤙</h3>
@@ -84,7 +84,7 @@
     </div>
 
 
-    
+
     <!-- <div class="info">
         <h1>Navigation bar with css Flexbox</h1>
       </div> -->

@@ -31,7 +31,7 @@
 
         <div class="nav">
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
@@ -49,7 +49,7 @@
     <div class="outter">
 
         <div class="left">
-            <img src="https://i0.wp.com/vario.id/wp-content/uploads/2024/05/9c49aef1d36dbe2680251aa982ca5b51.jpg?fit=700%2C700&ssl=1" alt="">
+            <img src="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/08/13/Honda-PCX-2023-913938079.jpg" alt="">
            
         </div>
         <div class="right">
@@ -61,7 +61,7 @@
                 <form name="myForm" action="#" onsubmit="return validateForm()" method="post">
 
                     <div class="pe">
-                        <p> Jasa rental Motor Honda Vario 150 Remote nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
+                        <p> Jasa rental Motor Honda PCX nomor 1 di Kota Yogyakarta dengan pelayanan yang sangat memuaskan.
                             Fasilitas : 2 Helm, Jas Hujan. Siap melayani antar jemput kendaraan di terminal, stasiun, bandara dll.
                         </p>
                         <p>     Monggo, kalo minat silahkan datang langsung ke Rental Motor 3R, Rental Motor Daerah Istimewa Yogyakarta.
@@ -75,7 +75,7 @@
                 
                 <div class="form" style="display: flex; flex-direction: column; width: 300px; gap: 10px;">
                    
-                    <button type="Pembayaran" value="Pembayaran" style="text-decoration: none; color: #666;"><a href="sistem pembeayaran.html">Pembayaran</button>
+                    <button type="Pembayaran" value="Pembayaran" style="text-decoration: none; color: #666;"><a href="sistem pembeayaran.php">Pembayaran</button>
                 </form>
                 </div>  
             <h3 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Unit sewa terlaris bosku 😎🤙</h3>
