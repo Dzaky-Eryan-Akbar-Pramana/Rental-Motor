@@ -31,7 +31,11 @@
 
         <div class="nav">
             <ul>
+<<<<<<< HEAD
                 <li><a href="index.php">Home</a></li>
+=======
+                <li><a href="index.html">Home</a></li>
+>>>>>>> 2d140712689ea7c8ddb449fef9470610f29f3d14
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
